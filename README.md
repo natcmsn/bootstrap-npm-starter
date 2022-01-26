@@ -48,7 +48,7 @@ Luego se abrió <http://localhost:3000> para ver la página.
     sesiones1_logout.php
     sesiones1_principal.php
 
-
+9. Se puede ver el resultado en: http://localhost/bootstrap-npm-starter/sesiones1_login.php
 
 
 ## What's included
