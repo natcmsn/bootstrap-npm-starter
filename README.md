@@ -50,13 +50,3 @@ Luego se abrió <http://localhost:3000> para ver la página.
 
 9. Se puede ver el resultado en: http://localhost/bootstrap-npm-starter/sesiones1_login.php
 
-
-## What's included
-
-- Single HTML page (`index.html`) to demonstrate how to include Bootstrap.
-- Includes [Bootstrap](https://getbootstrap.com) (currently using v4.6.0) source files via npm.
-- Includes [Bootstrap Icons](https://icons.getbootstrap.com) (v1.4.0), which includes over 1,200 icons available as SVGs and web fonts.
-- npm scripts (see `package.json`) for compiling and autoprefixing Sass, watching for changes, and starting a basic local server.
-- Example stylesheet (`scss/starter.scss`) highlighting two ways to include and customize Bootstrap.
-- Example JavaScript file (`assets/js/starter.js`) showing how to import all of Bootstrap, or just the parts you need.
-
