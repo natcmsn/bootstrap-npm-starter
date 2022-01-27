@@ -62,3 +62,10 @@ Se comprobó que se tiene instalado Node.js.
 
 9. Se puede ver el resultado en: http://localhost/bootstrap-npm-starter/sesiones1_login.php
 
+*Capturas de pantalla:*
+
+![login2](https://user-images.githubusercontent.com/91055830/151328553-dd1ff335-4eaa-4860-af0e-eb104a0bcb30.png)
+
+![login3](https://user-images.githubusercontent.com/91055830/151328584-de64f457-8718-49c2-9a15-336f66bf7672.png)
+
+
